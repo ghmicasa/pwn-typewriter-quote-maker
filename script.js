@@ -8,6 +8,7 @@ var context = canvas.getContext('2d');
 var quote = "";
 var author = "";
 
+
 function loadBackground(){
     
     
